@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <p>
-        fayeeka
+        fayeeka_simran
       </p>
     </div>
   );
